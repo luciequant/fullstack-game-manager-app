@@ -6,7 +6,7 @@
 :root {
   --color-bg: #ffffff;
   --color-text: #333333;
-  --color-accent: #9b0cc6ff;
+  --color-accent: #be10f3ff;
   --color-card: #f4f4f4;
 }
 
@@ -119,7 +119,7 @@ a {
 }
 
 a:hover {
-  color: #0aa65b;
+  color: #04eaffff;
 }
 
 /* ======================================
@@ -178,7 +178,7 @@ button {
 }
 
 button:hover {
-  background-color: #0aa65b;
+  background-color: #cd67ecff;
 }
 
 /* ======================================
